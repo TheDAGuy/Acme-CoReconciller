@@ -1,0 +1,6 @@
+@Acme_CoReconciller_HostAddress = http://localhost:5294
+
+GET {{Acme_CoReconciller_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
